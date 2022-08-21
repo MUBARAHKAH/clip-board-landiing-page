@@ -26,8 +26,8 @@ The challenge was designed for both desktop and mobile screen users.
 -[Mobile version](screenshot/clip-mobile.png)
 
 ### Links
-- Solution URL: [Github](https://github.com/MUBARAHKAH/testimonials-grid-section.git)
-- Live Site URL: [Livesite](https://mubarahkah.github.io/testimonials-grid-section/)
+- Solution URL: [Github](https://github.com/MUBARAHKAH/clip-board-landiing-page.git)
+- Live Site URL: [Livesite](https://mubarahkah.github.io/clip-board-landiing-page/)
 
 ## My process
 
