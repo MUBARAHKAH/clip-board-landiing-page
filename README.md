@@ -1,6 +1,7 @@
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Clipboard landing page solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 
 ## Table of contents
 
@@ -21,8 +22,8 @@ The challenge was designed for both desktop and mobile screen users.
 
 ### Screenshot
 
--[Desktop version](screenshot/testimonial-grid-desktop.png)
--[Mobile version](screenshot/testimonial-grid-mobile.png)
+-[Desktop version](screenshot/clip-desktop.png)
+-[Mobile version](screenshot/clip-mobile.png)
 
 ### Links
 - Solution URL: [Github](https://github.com/MUBARAHKAH/testimonials-grid-section.git)
